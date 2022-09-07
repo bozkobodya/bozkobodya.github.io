@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/Bozkobodya/static/css/main.15c3b8b3.css",
+    "main.js": "/Bozkobodya/static/js/main.8e77cb19.js",
+    "index.html": "/Bozkobodya/index.html",
+    "main.15c3b8b3.css.map": "/Bozkobodya/static/css/main.15c3b8b3.css.map",
+    "main.8e77cb19.js.map": "/Bozkobodya/static/js/main.8e77cb19.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.15c3b8b3.css",
+    "static/js/main.8e77cb19.js"
+  ]
+}
